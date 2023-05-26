@@ -12,4 +12,3 @@
 
 <img  align ="left" alt="Git" src ="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 
-<img  align ="left" alt="Shell Script" src = "https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
