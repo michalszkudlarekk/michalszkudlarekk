@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there, I'm Michał 👋
 
-<!--
-**michalszkudlarekk/michalszkudlarekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align ="left" width = "47%"  src="https://github-readme-stats.vercel.app/api?username=michalszkudlarekk&show_icons=true&theme=dracula" />
 
-Here are some ideas to get you started:
+<img align ="left" width = "47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michalszkudlarekk&layout=compact" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img  align ="left" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+
+<img  align ="left" alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+
+<img  align ="left" alt="Git" src ="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+
+<img  align ="left" alt="Shell Script" src = "https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
