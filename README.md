@@ -1,6 +1,6 @@
 # Hi there, I'm Michał 👋
 
-<img align ="left" width = "47%"  src="https://github-readme-stats.vercel.app/api?username=mszkudla&theme=nord&hide=contribs,issues&rank_icon=github" />
+<img align ="left" width = "47%"  src="https://github-readme-stats.vercel.app/api?username=mszkudla&theme=nord&hide=issues&rank_icon=github" />
 
 <img align ="left" width = "47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mszkudla&layout=donut&theme=nord&hide=html,css" />
 
