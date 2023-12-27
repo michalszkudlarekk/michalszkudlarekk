@@ -38,5 +38,5 @@ Welcome to my GitHub profile!
 
 
 ## Connect with Me:
-- 📧 Email: [michal1szkudlarek@gmail.com](michal1szkudlarek@gmail.com)
+- 📧 Email: [michal1szkudlarek@gmail.com](mailto:michal1szkudlarek@gmail.com)
 - 🔗 LinkedIn: [Michał Szkudlarek](https://www.linkedin.com/in/michal-szkudlarekk/)
