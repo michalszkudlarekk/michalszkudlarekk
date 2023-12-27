@@ -5,15 +5,15 @@ Welcome to my GitHub profile!
 ## About me:
 - 🎓 **Education**: Final year engineering student majoring in Automation and Robotics at Politechnika Wrocławska,
 - 💼 **Current Endeavors**: Actively working on my engineering thesis,
-- 🌟 **Looking Forward**: Seeking career opportunities in the field of Machine Learning or back-end development.
+- 🌟 **Looking Forward**: Seeking career opportunities in the field of Machine Learning or backend development.
 
 
 
 ### 📊 Stats:
 <p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=mszkudla&theme=nord&hide_border=true&border_radius=9&rank_icon=github&hide=issues,contribs" />
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mszkudla&hide_border=true&layout=compact&theme=nord&langs_count=6&hide=html,css" />
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=mszkudla&theme=nord&hide_border=true&border_radius=9">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=mszkudla&theme=nord&hide_border=true&border_radius=50&rank_icon=github&hide=issues,contribs" />
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mszkudla&hide_border=true&border_radius=50&layout=compact&theme=nord&langs_count=6&hide=html,css" />
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=mszkudla&theme=nord&hide_border=true&border_radius=50">
   <br>
   <br>
 </p>
