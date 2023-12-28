@@ -11,9 +11,9 @@ Welcome to my GitHub profile!
 
 ### 📊 Stats:
 <p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=mszkudla&theme=nord&hide_border=true&border_radius=50&rank_icon=github&hide=issues,contribs" />
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mszkudla&hide_border=true&border_radius=50&layout=compact&theme=nord&langs_count=6&hide=html,css" />
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=mszkudla&theme=nord&hide_border=true&border_radius=50">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=mpszkudlarek&theme=nord&hide_border=true&border_radius=50&rank_icon=github&hide=issues,contribs" />
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mpszkudlarek &hide_border=true&border_radius=50&layout=compact&theme=nord&langs_count=6&hide=html,css" />
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=mpszkudlarek&theme=nord&hide_border=true&border_radius=50">
   <br>
   <br>
 </p>
